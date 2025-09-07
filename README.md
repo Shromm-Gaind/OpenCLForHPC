@@ -82,7 +82,7 @@ This project uses a top-level CMake file to build all stages at once.
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Shromm-Gaind/OpenCLForHPC.git
 cd lu-decomposition-showcase
 
 # 2. Create a build directory
